@@ -1,5 +1,5 @@
 payload:
-  # >tailscale
+# >tailscale
 - DOMAIN-SUFFIX,tailscale.io
 - DOMAIN-SUFFIX,tailscale.com
 - DOMAIN,api.tailscale.com
