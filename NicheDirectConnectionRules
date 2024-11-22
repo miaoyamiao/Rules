@@ -1,0 +1,19 @@
+payload:
+# >tailscale
+- DOMAIN-SUFFIX,tailscale.io
+- DOMAIN-SUFFIX,tailscale.com
+- DOMAIN,api.tailscale.com
+- DOMAIN,controlplane.tailscale.com
+- DOMAIN,log.tailscale.io
+- DOMAIN-KEYWORD,tailscale
+# >syncthing
+- DOMAIN-SUFFIX,syncthing.net
+# >qBittorrent
+- DOMAIN-KEYWORD,tracker
+# >本地设备
+- SRC-IP-CIDR,10.0.0.7/32
+- SRC-IP-CIDR,10.0.0.8/32
+# >小天才
+- DOMAN-SUFFIX,okii.com
+- DOMAN-SUFFIX,eebbk.net
+- DOMAN-SUFFIX,xiaotiancai.com
