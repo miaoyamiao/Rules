@@ -1,9 +1,9 @@
 payload:
-# >syncthing
-- DOMAIN-SUFFIX,syncthing.net
-# >qBittorrent
-- DOMAIN-KEYWORD,tracker
-# >小天才
-- DOMAN-SUFFIX,okii.com
-- DOMAN-SUFFIX,eebbk.net
-- DOMAN-SUFFIX,xiaotiancai.com
+  # >syncthing
+  - DOMAIN-SUFFIX,syncthing.net
+  # >qBittorrent
+  - DOMAIN-KEYWORD,tracker
+  # >小天才
+  - DOMAIN-SUFFIX,okii.com
+  - DOMAIN-SUFFIX,eebbk.net
+  - DOMAIN-SUFFIX,xiaotiancai.com
