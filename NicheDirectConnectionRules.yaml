@@ -2,7 +2,6 @@ payload:
   # >tailscale
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN-KEYWORD,tailscale
   # >syncthing
   - DOMAIN-SUFFIX,syncthing.net
   # >qBittorrent
