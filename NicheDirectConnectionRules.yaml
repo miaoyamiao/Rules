@@ -13,3 +13,8 @@ payload:
   - DOMAIN-SUFFIX,tiancaixing.com
   # >WeChat外链
   - DOMAIN-SUFFIX,gaoduanw.com
+  # >Github反代
+  - DOMAIN,testingcf.jsdelivr.net
+  - DOMAIN,fastly.jsdelivr.net
+  - DOMAIN,raw.fastgit.org
+  - DOMAIN,cdn.jsdelivr.net
