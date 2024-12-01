@@ -12,4 +12,4 @@ payload:
   - DOMAIN-SUFFIX,xiaotiancai.com
   - DOMAIN-SUFFIX,tiancaixing.com
   # >WeChat外链
-  - DMAIN-SUFFIX,gaoduanw.com
+  - DOMAIN-SUFFIX,gaoduanw.com
