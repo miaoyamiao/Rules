@@ -18,3 +18,5 @@ payload:
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,raw.fastgit.org
   - DOMAIN,cdn.jsdelivr.net
+  # >chiphell
+  - DOMAIN-SUFFIX,chiphell.com
