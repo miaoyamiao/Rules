@@ -20,3 +20,5 @@ payload:
   - DOMAIN,cdn.jsdelivr.net
   # >chiphell
   - DOMAIN-SUFFIX,chiphell.com
+  # >awtrix
+  - DOMAIN-SUFFIX,blueforcer.de
