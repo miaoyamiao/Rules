@@ -1,26 +1,25 @@
 payload:
-  # >tailscale
-  #- DOMAIN-SUFFIX,tailscale.io
-  #- DOMAIN-SUFFIX,tailscale.com
+
   # >syncthing
   - DOMAIN-SUFFIX,syncthing.net
-  # >qBittorrent
-  - DOMAIN-KEYWORD,tracker
-  # >小天才
-  - DOMAIN-SUFFIX,okii.com
-  - DOMAIN-SUFFIX,eebbk.net
-  - DOMAIN-SUFFIX,xiaotiancai.com
-  - DOMAIN-SUFFIX,tiancaixing.com
-  # >WeChat外链
-  - DOMAIN-SUFFIX,gaoduanw.com
-  # >Github反代
-  - DOMAIN,testingcf.jsdelivr.net
-  - DOMAIN,fastly.jsdelivr.net
-  - DOMAIN,raw.fastgit.org
-  - DOMAIN,cdn.jsdelivr.net
-  # >chiphell
-  - DOMAIN-SUFFIX,chiphell.com
+  # >低端影视
+  - DOMAIN-KEYWORD,ddys
+  - DOMAIN-KEYWORD,ddrk
+  - DOMAIN-SUFFIX,ddys.pro
+  - DOMAIN-SUFFIX,ddys.mov
+  - DOMAIN-SUFFIX,ddys.tv
+  - DOMAIN-SUFFIX,ddrk.me
+  - DOMAIN-SUFFIX,ddys.site
+  - DOMAIN-SUFFIX,ddys.love
   # >awtrix
   - DOMAIN-SUFFIX,blueforcer.de
   # >tonymacx86
   - DOMAIN-SUFFIX,tonymacx86.com
+  # >小天才
+  #- DOMAIN-SUFFIX,okii.com
+  #- DOMAIN-SUFFIX,eebbk.net
+  #- DOMAIN-SUFFIX,xiaotiancai.com
+  #- DOMAIN-SUFFIX,tiancaixing.com
+  # >tailscale
+  #- DOMAIN-SUFFIX,tailscale.io
+  #- DOMAIN-SUFFIX,tailscale.com
