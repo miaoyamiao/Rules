@@ -5,6 +5,21 @@
 # 此规则文件中的域名会定期 PR 至 Geosite 数据库，并删除已被 Geosite 收录的域名，因此请在支持 Geosite 的软件（如 OpenClash）中使用。
 
 payload:
+# syncthing
+  - DOMAIN-SUFFIX,syncthing.net
+# 低端影视
+  - DOMAIN-KEYWORD,ddys
+  - DOMAIN-KEYWORD,ddrk
+  - DOMAIN-SUFFIX,ddys.pro
+  - DOMAIN-SUFFIX,ddys.mov
+  - DOMAIN-SUFFIX,ddys.tv
+  - DOMAIN-SUFFIX,ddrk.me
+  - DOMAIN-SUFFIX,ddys.site
+  - DOMAIN-SUFFIX,ddys.love
+# awtrix
+  - DOMAIN-SUFFIX,blueforcer.de
+  # >tonymacx86
+  - DOMAIN-SUFFIX,tonymacx86.com
 # 内网穿透
   - DOMAIN-SUFFIX,tailscale.com
 # ImmortalWrt 相关
