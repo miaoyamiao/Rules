@@ -1,6 +1,8 @@
 # NAME: Custom_Direct
 
 payload:
+# helloworldroom
+  - DOMAIN-SUFFIX,helloworldroom.net
 # syncthing
   - DOMAIN-SUFFIX,syncthing.net
 # 低端影视
