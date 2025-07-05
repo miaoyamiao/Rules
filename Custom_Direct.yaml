@@ -3,6 +3,7 @@
 payload:
 # helloworldroom
   - DOMAIN-SUFFIX,helloworldroom.net
+  - DOMAIN-SUFFIX,helloworldroom.com
 # syncthing
   - DOMAIN-SUFFIX,syncthing.net
 # 低端影视
