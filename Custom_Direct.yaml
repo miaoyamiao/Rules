@@ -15,8 +15,6 @@ payload:
   - DOMAIN-SUFFIX,ddrk.me
   - DOMAIN-SUFFIX,ddys.site
   - DOMAIN-SUFFIX,ddys.love
-# awtrix
-  - DOMAIN-SUFFIX,blueforcer.de
   # >tonymacx86
   - DOMAIN-SUFFIX,tonymacx86.com
 # 内网穿透
