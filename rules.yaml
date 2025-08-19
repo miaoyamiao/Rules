@@ -19,3 +19,5 @@ payload:
   #- DOMAIN-KEYWORD,tailscale
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
+  # >wechat
+  - IP-CIDR,43.160.156.23/32
