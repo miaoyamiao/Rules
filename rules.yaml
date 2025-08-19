@@ -1,7 +1,4 @@
 payload:
-  # >syncthing
-  - DOMAIN-KEYWORD,syncthing
-  - DOMAIN-SUFFIX,syncthing.net
   # >低端影视
   - DOMAIN-KEYWORD,ddys
   - DOMAIN-KEYWORD,ddrk
@@ -11,14 +8,8 @@ payload:
   - DOMAIN-SUFFIX,ddrk.me
   - DOMAIN-SUFFIX,ddys.site
   - DOMAIN-SUFFIX,ddys.love
-  # >awtrix
-  - DOMAIN-SUFFIX,blueforcer.de
   # >tonymacx86
   - DOMAIN-SUFFIX,tonymacx86.com
-  # >tailscale
-  #- DOMAIN-KEYWORD,tailscale
-  - DOMAIN-SUFFIX,tailscale.io
-  - DOMAIN-SUFFIX,tailscale.com
   # >wechat
   - IP-CIDR,43.160.156.23/32
   - IP-CIDR,43.160.156.172/32
