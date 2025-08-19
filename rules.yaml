@@ -1,4 +1,4 @@
 payload:
   # >wechat
-  - IP-CIDR,43.160.156.23/32
-  - IP-CIDR,43.160.156.172/32
+  - IP-CIDR,43.160.156.23/32,no-resolve
+  - IP-CIDR,43.160.156.172/32,no-resolve
