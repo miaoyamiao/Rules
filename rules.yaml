@@ -1,5 +1,6 @@
 payload:
   # >syncthing
+  - DOMAIN-KEYWORD,syncthing
   - DOMAIN-SUFFIX,syncthing.net
   # >低端影视
   - DOMAIN-KEYWORD,ddys
@@ -14,11 +15,7 @@ payload:
   - DOMAIN-SUFFIX,blueforcer.de
   # >tonymacx86
   - DOMAIN-SUFFIX,tonymacx86.com
-  # >小天才
-  #- DOMAIN-SUFFIX,okii.com
-  #- DOMAIN-SUFFIX,eebbk.net
-  #- DOMAIN-SUFFIX,xiaotiancai.com
-  #- DOMAIN-SUFFIX,tiancaixing.com
   # >tailscale
-  #- DOMAIN-SUFFIX,tailscale.io
-  #- DOMAIN-SUFFIX,tailscale.com
+  #- DOMAIN-KEYWORD,tailscale
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,tailscale.com
