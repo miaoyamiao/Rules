@@ -493,4 +493,5 @@ payload:
   - IP-CIDR,43.156.223.202/32,no-resolve
   - IP-CIDR,43.160.156.243/32,no-resolve
   - IP-CIDR,43.160.156.244/32,no-resolve
+  - IP-CIDR,43.160.156.219/32,no-resolve
 
