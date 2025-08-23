@@ -1,3 +1,4 @@
+payload:
   # >tencent
   - IP-CIDR,101.32.104.4/32,no-resolve
   - IP-CIDR,101.32.104.41/32,no-resolve
