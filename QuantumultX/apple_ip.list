@@ -1,4 +1,4 @@
-pyaload:
+payload:
   - IP-CIDR,17.0.0.0/8,Apple,no-resolve
   - IP-CIDR,63.92.224.0/19,Apple,no-resolve
   - IP-CIDR,65.199.22.0/23,Apple,no-resolve
