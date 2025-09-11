@@ -1,3 +1,6 @@
+# 规则名称: Speedtest
+# 规则统计: 7
+
 HOST,speed.dler.io,Speedtest
 HOST-SUFFIX,fast.com,Speedtest
 HOST-SUFFIX,ooklaserver.net,Speedtest
