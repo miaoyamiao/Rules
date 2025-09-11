@@ -1,3 +1,6 @@
-HOST,vcards.metowolf.com
-HOST-SUFFIX,tailscale.com
-HOST-SUFFIX,syncthing.net
+# 规则名称: custom_direct
+# 规则统计: 3
+
+HOST,vcards.metowolf.com,DIRECT
+HOST-SUFFIX,tailscale.com,DIRECT
+HOST-SUFFIX,syncthing.net,DIRECT
