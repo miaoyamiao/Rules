@@ -1,1 +1,3 @@
-HOST,vcards.metowolf.com,direct
+HOST,vcards.metowolf.com
+HOST-SUFFIX,tailscale.com
+HOST-SUFFIX,syncthing.net
