@@ -1,4 +1,4 @@
-IP-CIDR,103.21.244.0/22,Cloudflare,,no-resolve
+IP-CIDR,103.21.244.0/22,Cloudflare,no-resolve
 IP-CIDR,103.22.200.0/22,Cloudflare,no-resolve
 IP-CIDR,103.31.4.0/22,Cloudflare,no-resolve
 IP-CIDR,104.16.0.0/13,Cloudflare,no-resolve
