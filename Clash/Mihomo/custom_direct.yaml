@@ -2,8 +2,9 @@
 # 规则统计: 3
 
 payload:
-    - vcards.metowolf.com
-    - "+.tailscale.com"
-    - "+.syncthing.net"
+- '+.syncthing.net'
+- '+.tailscale.com'
+- 'vcards.metowolf.com'
+
 
 
