@@ -3,5 +3,5 @@
 
 payload:
     - vcards.metowolf.com
-    - +.tailscale.com
-    - +.syncthing.net
+    - '+.tailscale.com'
+    - '+.syncthing.net'
