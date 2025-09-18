@@ -1,6 +1,0 @@
-# 规则名称: custom_direct
-# 规则统计: 3
-rules:
-  - DOMAIN,vcards.metowolf.com,DIRECT
-  - DOMAIN-SUFFIX,tailscale.com,DIRECT
-  - DOMAIN-SUFFIX,syncthing.net,DIRECT
