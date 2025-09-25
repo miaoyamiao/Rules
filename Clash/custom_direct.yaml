@@ -2,6 +2,7 @@
 # 规则统计: 3
 
 payload:
-- '+.syncthing.net'
-- '+.tailscale.com'
+- '*.syncthing.net'
+- '*.tailscale.com'
 - 'vcards.metowolf.com'
+
