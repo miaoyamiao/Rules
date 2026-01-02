@@ -1,0 +1,6 @@
+# 规则名称: CustomDirect
+# 规则统计: 3
+
+HOST,vcards.metowolf.com,CustomDirect
+HOST-SUFFIX,tailscale.com,CustomDirect
+HOST-SUFFIX,syncthing.net,CustomDirect
