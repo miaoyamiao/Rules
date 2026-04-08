@@ -1,2 +1,5 @@
 # 规则名称: WeChat
+IP-CIDR,43.160.0.0/12,WeChat
+IP-CIDR,101.32.0.0/16,WeChat
+IP-CIDR,129.226.0.0/16,WeChat
 IP-ASN,132203,WeChat
