@@ -1,6 +1,7 @@
 # 规则名称: custom_direct
 # 规则统计: 4
-vcards.metowolf.com
-+.syncthing.net
-+.tailscale.com
-+.rustdesk.com
+payload:
+- '.vcards.metowolf.com'
+- '*.syncthing.net'
+- '*.tailscale.com'
+- '*.rustdesk.com'
