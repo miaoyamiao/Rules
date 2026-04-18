@@ -2,6 +2,6 @@
 # 规则统计: 4
 payload:
 - '.vcards.metowolf.com'
-- '*.syncthing.net'
-- '*.tailscale.com'
-- '*.rustdesk.com'
+- '+.syncthing.net'
+- '+.tailscale.com'
+- '+.rustdesk.com'
