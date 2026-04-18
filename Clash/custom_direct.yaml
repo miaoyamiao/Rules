@@ -1,7 +1,7 @@
 # 规则名称: custom_direct
 # 规则统计: 4
 payload:
-- '.vcards.metowolf.com'
-- '+.syncthing.net'
-- '+.tailscale.com'
-- '+.rustdesk.com'
+  - DOMAIN,vcards.metowolf.com
+  - DOMAIN-SUFFIX,syncthing.net
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,rustdesk.com
