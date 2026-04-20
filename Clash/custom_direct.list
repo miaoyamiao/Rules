@@ -5,4 +5,5 @@ payload:
   - '+.vcards.metowolf.com'
   - '+.syncthing.net'
   - '+.tailscale.com'
+  - '+.ts.net'
   - '+.rustdesk.com'
