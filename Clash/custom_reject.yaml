@@ -1,0 +1,5 @@
+# 规则名称: custom_reject
+# 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_reject.list
+# 规则统计: 1
+payload:
+  - 'msmp.abchina.com.cn'
