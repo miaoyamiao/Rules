@@ -1,0 +1,10 @@
+# 规则名称: custom_port
+# 规则地址: 
+# 规则统计: 1
+payload:
+- DST-PORT,1-442,444-65535
+#- DST-PORT,123
+#- DST-PORT,1900
+#- DAT-PORT,22000
+#- DAT-PORT,22607
+#- DAT-PORT,41641
