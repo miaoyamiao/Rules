@@ -7,6 +7,5 @@ payload:
 - '+.tailscale.com'
 - '+.ts.net'
 - '+.rustdesk.com'
-- '+.778566.xyz'
+- '*.778566.xyz'
 - '+.920716.xyz'
-- 'v.778556.xyz'
