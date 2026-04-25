@@ -2,8 +2,11 @@
 # 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_direct.yaml
 # 规则统计: 7
 payload:
+
 - captive.apple.com
 - vcards.metowolf.com
+- '.lan'
+- '.local'
 - '.syncthing.net'
 - '.tailscale.com'
 - '.ts.net'
