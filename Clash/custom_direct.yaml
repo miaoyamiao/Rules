@@ -2,8 +2,8 @@
 # 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_direct.yaml
 # 规则统计: 7
 payload:
-- 'afs.ampaeservices.com' # 推测苹果反欺诈服务
-- captive.apple.com
+- afs.ampaeservices.com # 推测苹果反欺诈服务
+- captive.apple.com # 苹果强制网络门户检测
 - vcards.metowolf.com
 - '.lan'
 - '.local'
