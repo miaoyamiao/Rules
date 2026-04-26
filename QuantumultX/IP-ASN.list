@@ -1,6 +1,0 @@
-# 规则名称: IP-ASN
-# 规则统计: 2
-
-# 腾讯（Tencent）
-ip-asn, 132203, direct
-ip-asn, 45090, direct
