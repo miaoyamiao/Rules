@@ -1,4 +1,5 @@
 # 规则名称: CustomReject
+# 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/QuantumultX/CustomReject.list
 # 规则统计: 1
 # 农行VPN检测
 HOST-SUFFIX,msmp.abchina.com.cn,REJECT
