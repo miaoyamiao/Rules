@@ -3,31 +3,28 @@
 # 规则统计: 1
 payload:
 - 'msmp.abchina.com.cn'
-payload:
+
+
 # 🚫 1. 斩断跨国隐私/追踪 SDK（直接干掉 appsflyersdk 根源）
 - 'appsflyersdk.com'
-- '.appsflyersdk.com'
 
-# 🚫 2. 斩断谷歌框架后台的广告与日志上报（不影响正常通知推送）
+# 🚫 2. 斩断谷歌框架后台的广告与日志上报
 - 'firebaselogging.googleapis.com'
 - 'firebaselogging-pa.googleapis.com'
 
-# 🚫 3. 斩断小红书后台最重度的“风控与日志跑量内鬼”
-- 'lng.xiaohongshu.com'            # 疯狂跑量的风控上报
-- 'flash.xiaohongshu.com'          # 走 5333 端口的流氓心跳
-- 'gslb.xiaohongshu.com'           # 全球负载均衡（用来给后台流氓流量寻路的）
-- 't2.xiaohongshu.com'             # 跟踪审计服务器
-- 'as.xiaohongshu.com'             # 广告/审计联络点
-
-# 🚫 4. 斩断后台流媒体和广告图片的自动预加载
-- 'live-source-play.xhscdn.com'    # 直播源探测
-- 'live-source-play-hs.xhscdn.com' # 直播源探测
-- 'ads-img-al.xhscdn.com'          # 广告图预加载
-- 'ads-img-bd.xhscdn.com'          # 广告图预加载
-- '.ads-img-al.xhscdn.com'
-  
-# 🚫 5. 斩断无人使用时高频刷新的核心长连接和心跳
-- 'live-play.xhscdn.com'
+# 🚫 3. 斩断小红书后台重度的“风控与审计上报”
+- 'lng.xiaohongshu.com'
+- 'flash.xiaohongshu.com'
+- 't2.xiaohongshu.com'
+- 'as.xiaohongshu.com'
+- 'fe.xiaohongshu.com'
 - 'apm-native.xiaohongshu.com'
-- 'rec.xiaohongshu.com'
+
+# 🚫 4. 斩断广告图片的自动预加载
+- 'ads-img-al.xhscdn.com'
+- 'ads-img-bd.xhscdn.com'
+- 'ads-img-al.xhscdn.com'
+
+# 🚫 5. STUN 探测与高频保活心跳（按需保留，若不用小红书语音通话可安全屏蔽）
 - 'stun.voip.aebc.com'
+- 'stun.voipstunt.com'
