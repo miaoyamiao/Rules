@@ -3,3 +3,18 @@
 # 规则统计: 1
 payload:
 - 'msmp.abchina.com.cn'
+# 🚫 1. 斩断小红书明目张胆的广告图片预加载与公共广告 SDK
+- 'ads-img-al.xhscdn.com'
+- 'ads-img-bd.xhscdn.com'
+- '.ads-img-al.xhscdn.com'
+# 🚫 2. 斩断日志中暴露的后台 Native 核心隐私与行为数据上报（sns-na-ix 等长连接）
+- 'sns-na-i1.xhscdn.com'
+- 'sns-na-i2.xhscdn.com'
+- 'sns-na-i4.xhscdn.com'
+- 'sns-na-i6.xhscdn.com'
+- 'apm-native.xiaohongshu.com'
+- 'rec.xiaohongshu.com'
+# 🚫 3. 斩断无人使用时高频刷新的后台直播心跳探测
+- 'live-play.xhscdn.com'
+# 🚫 4. 掐断后台各类软件高频出现的 STUN 穿透探测（阻止外界嗅探 NAT）
+- 'stun.voip.aebc.com'
