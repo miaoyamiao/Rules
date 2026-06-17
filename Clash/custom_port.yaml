@@ -1,12 +1,5 @@
-# 规则名称: custom_port
-# 规则地址: 
-# 规则统计: 3
+# 规则名称: custom_proxy
+# 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_proxy.list
+# 规则统计: 1
 payload:
-#- DST-PORT,1-79
-#- DST-PORT,81-442
-#- DST-PORT,444-65535
-- DST-PORT,123
-- DST-PORT,1900
-- DST-PORT,22000
-- DST-PORT,22607
-- DST-PORT,41641
+ - 'zvo.cn' #雷鸣开源的网页自动翻译接口
