@@ -2,29 +2,29 @@
 # 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_reject.list
 # 规则统计: 1
 payload:
-- 'msmp.abchina.com.cn'
+  - 'msmp.abchina.com.cn'
 
 
 # 🚫 1. 斩断跨国隐私/追踪 SDK（直接干掉 appsflyersdk 根源）
-- 'appsflyersdk.com'
+  - '.appsflyersdk.com'
 
 # 🚫 2. 斩断谷歌框架后台的广告与日志上报
-- 'firebaselogging.googleapis.com'
-- 'firebaselogging-pa.googleapis.com'
+  - '.firebaselogging.googleapis.com'
+  - '.firebaselogging-pa.googleapis.com'
 
 # 🚫 3. 斩断小红书后台重度的“风控与审计上报”
-- 'lng.xiaohongshu.com'
-- 'flash.xiaohongshu.com'
-- 't2.xiaohongshu.com'
-- 'as.xiaohongshu.com'
-- 'fe.xiaohongshu.com'
-- 'apm-native.xiaohongshu.com'
+  - '.lng.xiaohongshu.com'
+  - '.flash.xiaohongshu.com'
+  - '.t2.xiaohongshu.com'
+  - '.as.xiaohongshu.com'
+  - '.fe.xiaohongshu.com'
+  - '.apm-native.xiaohongshu.com'
 
 # 🚫 4. 斩断广告图片的自动预加载
-- 'ads-img-al.xhscdn.com'
-- 'ads-img-bd.xhscdn.com'
-- 'ads-img-al.xhscdn.com'
+  - '.ads-img-al.xhscdn.com'
+  - '.ads-img-bd.xhscdn.com'
+  - '.ads-img-al.xhscdn.com'
 
 # 🚫 5. STUN 探测与高频保活心跳（按需保留，若不用小红书语音通话可安全屏蔽）
-- 'stun.voip.aebc.com'
-- 'stun.voipstunt.com'
+  - '.stun.voip.aebc.com'
+  - '.stun.voipstunt.com'
