@@ -12,7 +12,3 @@ payload:
   - '.920716.xyz'
   - '.msftconnecttest.com'
   - '.msftncsi.com'
-
-  # 带验证
-  #- '.tailscale.com'
-  #- '.ts.net'
