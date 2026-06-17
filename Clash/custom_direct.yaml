@@ -6,9 +6,13 @@ payload:
   - captive.apple.com # 苹果强制网络门户检测
   - vcards.metowolf.com
   - pool.net.org
+  - '.lan'
+  - '.local'
   - '.syncthing.net'
   - '.rustdesk.com'
   - '.778556.xyz'
   - '.920716.xyz'
   - '.msftconnecttest.com'
   - '.msftncsi.com'
+
+
