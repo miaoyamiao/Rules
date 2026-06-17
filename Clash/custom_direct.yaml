@@ -7,10 +7,12 @@ payload:
   - vcards.metowolf.com
   - pool.net.org
   - '.syncthing.net'
-  - '.tailscale.com'
-  - '.ts.net'
   - '.rustdesk.com'
   - '.778556.xyz'
   - '.920716.xyz'
   - '.msftconnecttest.com'
   - '.msftncsi.com'
+
+  # 带验证
+  - '.tailscale.com'
+  - '.ts.net'
