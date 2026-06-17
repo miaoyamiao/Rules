@@ -14,5 +14,5 @@ payload:
   - '.msftncsi.com'
 
   # 带验证
-  - '.tailscale.com'
-  - '.ts.net'
+  #- '.tailscale.com'
+  #- '.ts.net'
