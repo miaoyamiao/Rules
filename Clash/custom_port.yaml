@@ -2,4 +2,4 @@
 # 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_proxy.list
 # 规则统计: 1
 payload:
- - 'zvo.cn' #雷鸣开源的网页自动翻译接口
+ - 'zvo.cn' #雷鸣开源的网页自动翻译接口/网站
