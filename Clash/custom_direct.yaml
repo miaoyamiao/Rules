@@ -2,12 +2,21 @@
 # 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_direct.yaml
 # 规则统计: 8
 payload:
+# lan_domain(域名类)
+  - '.local'
+  - '.lan'
+  - '.home.arpa'
+  - '.localhost'
+  - '.test'
+  - '.example'
+  - '.invalid'
+  - '.localhost.direct'
+  - '.localdomain'
+# custom(域名类)
   - afs.ampaeservices.com # 推测苹果反欺诈服务
   - captive.apple.com # 苹果强制网络门户检测
   - vcards.metowolf.com
   - pool.net.org
-  - '.lan'
-  - '.local'
   - '.syncthing.net'
   - '.rustdesk.com'
   - '.778556.xyz'
