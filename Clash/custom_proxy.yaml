@@ -3,4 +3,3 @@
 # 规则统计: 1
 payload:
   - '.zvo.cn' #雷鸣开源的网页自动翻译接口
-  - '.sqlsec.com'
