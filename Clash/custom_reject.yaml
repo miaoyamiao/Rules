@@ -3,7 +3,8 @@
 # 规则统计: 1
 payload:
   - 'msmp.abchina.com.cn'
-
+  - AND,((DST-PORT,443),(NETWORK,UDP),(GEOSITE,instagram)),REJECT
+  - AND,((DST-PORT,443),(NETWORK,UDP),(GEOSITE,twitter)),REJECT
 
 # 🚫 1. 斩断跨国隐私/追踪 SDK（直接干掉 appsflyersdk 根源）
   - '.appsflyersdk.com'
