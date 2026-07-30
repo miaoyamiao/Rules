@@ -1,2 +1,2 @@
-  # Route your PC's IP to the manual switch
+payload:
   - SRC-IPCIDR,10.0.0.104/32,cli_tvbox
