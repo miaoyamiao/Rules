@@ -1,15 +1,10 @@
 # 规则名称: custom_direct
 # 规则地址: https://raw.githubusercontent.com/miaoyamiao/Rules/refs/heads/main/Clash/custom_direct.yaml
-# 规则统计: 8
 payload:
-  #- captive.apple.com # 苹果强制网络门户检测
   - '.syncthing.net'
   - '.rustdesk.com'
   - '.778556.xyz'
   - '.920716.xyz'
   - '.tailscale.com'
   - '.ts.net'
-  #- '.msftconnecttest.com'
-  #- '.msftncsi.com'
-
 
