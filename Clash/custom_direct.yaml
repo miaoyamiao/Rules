@@ -3,8 +3,8 @@
 payload:
   - '.syncthing.net'
   - '.rustdesk.com'
-  - '.778556.xyz'
-  - '.920716.xyz'
+#  - '.778556.xyz'
+#  - '.920716.xyz'
   - '.tailscale.com'
   - '.ts.net'
   - '.abchina.com.cn
