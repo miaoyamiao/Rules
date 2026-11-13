@@ -9,3 +9,5 @@ HOST-SUFFIX,mcdn.bilivideo.cn,REJECT
 HOST-SUFFIX,mcdn.bilivideo.com,REJECT
 HOST-SUFFIX,szbdyd.com,REJECT
 HOST-SUFFIX,mountaintoys.cn,REJECT
+# 腾讯相关
+HOST,dns.weixin.qq.com,REJECT
