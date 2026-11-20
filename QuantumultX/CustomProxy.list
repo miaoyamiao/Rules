@@ -1,3 +1,6 @@
 # 规则名称: CustomProxy
-# 规则统计: 1
-HOST-SUFFIX,workbuddy.ai,OutSide
+# 规则统计: 2
+# 雷鸣开源的网页自动翻译接口
+HOST-SUFFIX,zvo.cn,OutSide
+# 波仔分享
+HOST-SUFFIX,v2rayssr.com,OutSide
